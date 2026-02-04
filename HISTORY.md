@@ -11,7 +11,7 @@ Together, these four pillars shaped a global cultural force. Today, hip hop is o
 
 ### 2. The Birth of Hip Hop (1970s)  
 
-![DJ Kool Herc] (https://i.imgur.com/weXCosl.jpg)
+! [DJ Kool Herc] (https://i.imgur.com/weXCosl.jpg)
 
 Hip hop’s roots can be traced back to block parties in the Bronx. DJs such as Kool Herc pioneered the technique of isolating and looping the _breakbeat_ from funk and soul records.  
 
@@ -26,12 +26,12 @@ Key Figures of the 1970s:
 
 ### 3. The Old School Era (Early 1980s)  
 
-Run DMC (image link: https://i.imgur.com/e80w9gc.jpg)
+! [Run DMC] (image link: https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
-- Rapper’s Delight by the Sugarhill Gang (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. (video link: https://youtu.be/mcCK99wHrk0)  
-- Run-DMC fused rock and rap, creating crossover hits. (video link: https://youtu.be/l-O5IHVhWj0)  
-- LL Cool J and Beastie Boys brought hip hop to MTV audiences. (links: https://youtu.be/vimZj8HW0Kg, https://youtu.be/07Y0cy-nvAg)  
+*  _"Rapper’s Delight"_ by the [Sugarhill Gang](video link: https://youtu.be/mcCK99wHrk0) (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. 
+*  Run-DMC fused rock and rap, creating crossover hits. (video link: https://youtu.be/l-O5IHVhWj0)  
+* LL Cool J and Beastie Boys brought hip hop to MTV audiences. (links: https://youtu.be/vimZj8HW0Kg, https://youtu.be/07Y0cy-nvAg)  
 
 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
 
