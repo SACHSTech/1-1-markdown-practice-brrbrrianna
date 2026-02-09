@@ -20,37 +20,37 @@ This extended drum section became the foundation for MCs to hype up the crowd.
 >“Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
 
 Key Figures of the 1970s:  
-1. [Kool Herc](video link: https://youtu.be/10C-Q3NIlzU) – credited with extending the break.
-2. [Afrika Bambaataa(video link: https://youtu.be/9J3lwZjHenA)  – spread hip hop culture through the Universal Zulu Nation.  
-3. [Grandmaster Flash](video link: https://youtu.be/PobrSpMwKk4) – innovated DJ techniques like scratching and cutting.   
+1. [Kool Herc](https://youtu.be/10C-Q3NIlzU) – credited with extending the break.
+2. [Afrika Bambaataa(https://youtu.be/9J3lwZjHenA)  – spread hip hop culture through the Universal Zulu Nation.  
+3. [Grandmaster Flash](https://youtu.be/PobrSpMwKk4) – innovated DJ techniques like scratching and cutting.   
 
 ### 3. The Old School Era (Early 1980s)  
 
-! [Run DMC] (image link: https://i.imgur.com/e80w9gc.jpg)
+![Run DMC] (https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
-*  _"Rapper’s Delight"_ by the [Sugarhill Gang](video link: https://youtu.be/mcCK99wHrk0) (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. 
-*  Run-DMC fused rock and rap, creating crossover hits. (video link: https://youtu.be/l-O5IHVhWj0)  
-* LL Cool J and Beastie Boys brought hip hop to MTV audiences. (links: https://youtu.be/vimZj8HW0Kg, https://youtu.be/07Y0cy-nvAg)  
+*  _"Rapper’s Delight"_ by the [Sugarhill Gang](https://youtu.be/mcCK99wHrk0) (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. 
+*  Run-DMC fused rock and rap, creating crossover hits. (https://youtu.be/l-O5IHVhWj0)  
+* LL Cool J and Beastie Boys brought hip hop to MTV audiences. (https://youtu.be/vimZj8HW0Kg, https://youtu.be/07Y0cy-nvAg)  
 
-4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
+### 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
 
-Notorious B.I.G. (image link: https://i.imgur.com/aICxYyc.jpg)
-
-The Golden Age is often described as the most creative and influential period of hip hop.  
+![Notorious B.I.G.] (https://i.imgur.com/aICxYyc.jpg)
+> blockquote “I never sleep, ’cause sleep is the cousin of death.” – Nas, N.Y. State of Mind 
+**The Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
 
-4.1 East Coast Greats  
-- A Tribe Called Quest – jazz-influenced beats, socially conscious lyrics.  
-- The Notorious B.I.G. – storytelling genius, Ready to Die (1994).  
-- Nas – Illmatic (1994), often considered one of the greatest hip hop albums ever.  
+#### 4.1 East Coast Greats  
+- **A Tribe Called Quest** – jazz-influenced beats, socially conscious lyrics.  
+- **The Notorious B.I.G.** – storytelling genius, _Ready to Die_ (1994).  
+- **Nas** – _Illmatic_ (1994), often considered one of the greatest hip hop albums ever.  
 
-4.2 West Coast Pioneers  
-- N.W.A. – brought gangsta rap to the forefront with Straight Outta Compton (1988).  
-- Tupac Shakur (2Pac) – poetic lyricism with political and emotional depth.  
-- Ice Cube and Dr. Dre – pushed West Coast sound into the mainstream.  
+#### 4.2 West Coast Pioneers  
+- **N.W.A.** – brought gangsta rap to the forefront with _Straight Outta Compton_ (1988).  
+- **Tupac Shakur (2Pac)** – poetic lyricism with political and emotional depth.  
+- **Ice Cube and Dr. Dre** – pushed West Coast sound into the mainstream.  
 
-“I never sleep, ’cause sleep is the cousin of death.” – Nas, N.Y. State of Mind  
+ 
 
 5. Elements of Style  
 
