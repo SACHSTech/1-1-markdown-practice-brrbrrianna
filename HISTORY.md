@@ -26,16 +26,16 @@ Key Figures of the 1970s:
 
 ### 3. The Old School Era (Early 1980s)  
 
-![Run DMC] (https://i.imgur.com/e80w9gc.jpg)
+![Run DMC](https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
 *  _"Rapper’s Delight"_ by the [Sugarhill Gang](https://youtu.be/mcCK99wHrk0) (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. 
-*  Run-DMC fused rock and rap, creating crossover hits. (https://youtu.be/l-O5IHVhWj0)  
-* LL Cool J and Beastie Boys brought hip hop to MTV audiences. (https://youtu.be/vimZj8HW0Kg, https://youtu.be/07Y0cy-nvAg)  
+*  [Run-DMC](https://youtu.be/l-O5IHVhWj0) fused rock and rap, creating crossover hits.   
+* [LL Cool J](https://youtu.be/vimZj8HW0Kg) and [Beastie Boys](https://youtu.be/07Y0cy-nvAg)brought hip hop to MTV audiences. 
 
 ### 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
 
-![Notorious B.I.G.] (https://i.imgur.com/aICxYyc.jpg)
+![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
 > “I never sleep, ’cause sleep is the cousin of death.” – Nas, N.Y. State of Mind
 **The Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
@@ -66,13 +66,14 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
 ### 6. Regional Diversity in the Golden Age  
 
-[U.S. Map] (https://i.imgur.com/aLT8i1B.png)
+![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
-Region   | Key Artists            | Notable Albums  
-East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers  
-West Coast | Tupac, N.W.A., Ice Cube | All Eyez on Me, Straight Outta Compton  
-Midwest   | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  
-South     | Outkast, Geto Boys    | Southernplayalisticadillacmuzik  
+Region     | Key Artists                  | Notable Albums  
+   :----:  |   :----:                     |   :----:   
+East Coast | Nas, Biggie, Wu-Tang Clan    | Illmatic, Ready to Die, 36 Chambers  
+West Coast | Tupac, N.W.A., Ice Cube      | All Eyez on Me, Straight Outta Compton  
+Midwest    | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  
+South      | Outkast, Geto Boys           | Southernplayalisticadillacmuzik  
 
 ### 7. Transition to the 2000s  
 
@@ -84,7 +85,7 @@ Negatives: Increasing commercialization, rise of formulaic “radio rap.”
 
 ### 8. Modern Hip Hop  
 
-[Kendrick Lamar] (https://i.imgur.com/GFKOYTV.jpg)
+![Kendrick Lamar](https://i.imgur.com/GFKOYTV.jpg)
 
 >“If I’m gonna tell a real story, I’m gonna start with my name.” – Kendrick Lamar  
 
