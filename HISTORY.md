@@ -37,6 +37,7 @@ As hip hop gained traction, artists began recording tracks commercially.
 
 ![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
 > “I never sleep, ’cause sleep is the cousin of death.” – Nas, N.Y. State of Mind
+  
 **The Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
 
@@ -80,8 +81,8 @@ South      | Outkast, Geto Boys           | Southernplayalisticadillacmuzik
 By the late 1990s, the deaths of **Tupac Shakur** and **The Notorious B.I.G.** marked the tragic end of an era.  
 The industry shifted towards commercialization, with artists like **Jay-Z** and **Eminem** dominating charts.  
 
-Positives: Greater mainstream recognition, global spread of hip hop.  
-Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
+* Positives: Greater mainstream recognition, global spread of hip hop.  
+* Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
 
 ### 8. Modern Hip Hop  
 
